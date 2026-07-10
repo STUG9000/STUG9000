@@ -1,6 +1,3 @@
-<!-- Rascunho do README de perfil — STUG9000/STUG9000 -->
-<title>STUG9000 — README de perfil</title>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+DevOps+%26+SRE;Linux+%C2%B7+Docker+%C2%B7+Terraform+%C2%B7+Ansible+%C2%B7+AWS" alt="Typing SVG" />
@@ -87,14 +84,13 @@ Formado em Análise e Desenvolvimento de Sistemas, com foco de estudo em **DevOp
 
 ### 📌 Projetos em destaque
 
-<div align="center">
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [FINAN-ASPRO](https://github.com/STUG9000/FINAN-ASPRO) | Sistema de finanças pessoais completo — projeto final de faculdade | React · TypeScript · Terraform · Ansible |
+| [sre-prova-nivel1](https://github.com/STUG9000/sre-prova-nivel1) | Checkpoint prático de SRE: deploy, rollback e monitoramento | Python · Flask · Docker |
+| [DOCKER-CI](https://github.com/STUG9000/DOCKER-CI) | API com 5 pipelines de CI/CD (build, Docker, EC2, ECS, load test) | Go · Docker · GitHub Actions |
+| [iac-terraform-ansible](https://github.com/STUG9000/iac-terraform-ansible) | Provisionamento de EC2 com Terraform + configuração via Ansible | Terraform · Ansible · AWS |
 
-<a href="https://github.com/STUG9000/integracao-continua-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=STUG9000&repo=integracao-continua-go&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/STUG9000/DOCKER-CI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=STUG9000&repo=DOCKER-CI&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/STUG9000/iac-terraform-ansible"><img src="https://github-readme-stats.vercel.app/api/pin/?username=STUG9000&repo=iac-terraform-ansible&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/STUG9000/sre-prova-nivel1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=STUG9000&repo=sre-prova-nivel1&theme=tokyonight&hide_border=true" /></a>
-
-</div>
 <br>
 
 ### 📊 Estatísticas
