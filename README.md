@@ -1,10 +1,10 @@
-<div align="center">
+```bash
+$ whoami
+```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+DevOps+%26+SRE;Linux+%C2%B7+Docker+%C2%B7+Terraform+%C2%B7+Ansible+%C2%B7+AWS" alt="Typing SVG" />
+**Gabriel Stuginski** — Analista de Sistemas formado, hoje de cabeça em DevOps e SRE.
 
-</div>
-
-Formado em Análise e Desenvolvimento de Sistemas, com foco de estudo em **DevOps e SRE**. Tenho prática com AWS (EC2, RDS, ECS, entre outros serviços) e gosto de transformar deploy manual em pipeline, e servidor "configurado na mão" em playbook versionado.
+Tenho prática com AWS (EC2, RDS, ECS e outros serviços) e gosto de transformar deploy manual em pipeline, e servidor "configurado na mão" em playbook versionado.
 
 <br>
 
