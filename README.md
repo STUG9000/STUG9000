@@ -100,10 +100,7 @@ Tenho prática com AWS (EC2, RDS, ECS e outros serviços) e gosto de transformar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=STUG9000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=STUG9000&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STUG9000&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 <br>
