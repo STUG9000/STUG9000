@@ -1,8 +1,11 @@
-```bash
-$ whoami
+```hcl
+resource "developer" "gabriel_stuginski" {
+  formacao = "Análise e Desenvolvimento de Sistemas"
+  foco     = ["DevOps", "SRE"]
+  stack    = ["AWS", "Terraform", "Ansible", "Docker"]
+  status   = "provisionado e em produção"
+}
 ```
-
-**Gabriel Stuginski** — Analista de Sistemas formado, hoje de cabeça em DevOps e SRE.
 
 Tenho prática com AWS (EC2, RDS, ECS e outros serviços) e gosto de transformar deploy manual em pipeline, e servidor "configurado na mão" em playbook versionado.
 
