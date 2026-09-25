@@ -153,7 +153,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=STUG9000&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=STUG9000&theme=tokyonight" width="700" />
 
 </div>
 <br>
