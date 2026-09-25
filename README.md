@@ -1,16 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Stuginski&fontSize=52&fontAlignY=38&desc=DevOps%20%C2%B7%20SRE%20%C2%B7%20Cloud&descAlignY=58&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&height=45&lines=Transformando+deploy+manual+em+pipeline;Servidor+na+m%C3%A3o+%E2%86%92+playbook+versionado;Infra+como+c%C3%B3digo+com+Terraform+e+Ansible;Confiabilidade+com+SLO+e+Error+Budget" alt="Frases animadas" />
-
-<br>
-
-![Visitas](https://komarev.com/ghpvc/?username=STUG9000&label=Visitas&style=for-the-badge&color=7B42BC)
-![Seguidores](https://img.shields.io/github/followers/STUG9000?style=for-the-badge&logo=github&label=Seguidores&color=2088FF)
-
-</div>
-
 ```hcl
 resource "developer" "gabriel_stuginski" {
   formacao = "Análise e Desenvolvimento de Sistemas"
@@ -168,14 +155,6 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com/?user=STUG9000&theme=tokyonight&hide_border=true" height="165" />
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=STUG9000&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=STUG9000&theme=tokyonight&utcOffset=-3" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=STUG9000&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=STUG9000&theme=tokyonight" width="49%" />
-
 </div>
 <br>
 
@@ -185,7 +164,5 @@ flowchart LR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-stuginski-b9b5132b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stug9000@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
